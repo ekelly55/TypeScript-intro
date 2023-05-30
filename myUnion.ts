@@ -77,3 +77,4 @@ let seatAllotment: 'aisle' | 'middle' | 'window'
 seatAllotment = 'galley'
 //here you can't asign a crew seat in the galley. you can assign it to any of the specific values above. 
 
+export {}

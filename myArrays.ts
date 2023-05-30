@@ -32,3 +32,5 @@ const MLModels: number[][] = [
 MLModels.push([34, 3])
 
 console.log(MLModels)
+
+export {}
