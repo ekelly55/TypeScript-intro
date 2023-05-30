@@ -1,4 +1,11 @@
-ts is a superset of js. it can do all of js, but more.
+src = https://www.freecodecamp.org/news/programming-in-typescript/
+
+
+
+ts \
+
+
+is a superset of js. it can do all of js, but more.
 
 doesn't add more features...just allows you to write js in na more precise way so you have fewer errors
 
